@@ -8,6 +8,4 @@ Building Digital Trust Services
 
 * ██████████.███
 
-* 1keep.com
-
-[![hackmd-github-sync-badge](https://hackmd.io/SHiSuOvWSumgi9Y9og2GJA/badge)](https://hackmd.io/SHiSuOvWSumgi9Y9og2GJA)
+* [1keep.com]()
